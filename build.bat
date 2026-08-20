@@ -1,5 +1,6 @@
 @echo off
-setlocal EnableDelayedExpansion
+chcp 65001 >nul
+setlocal
 
 cd /d "%~dp0"
 
@@ -20,7 +21,6 @@ if errorlevel 1 (
     echo.
     echo ===== ERRO NA COMPILACAO =====
     del sources.txt
-    pause
     exit /b 1
 )
 
@@ -28,26 +28,3 @@ del sources.txt
 
 echo.
 echo ===== COMPILADO COM SUCESSO =====
-echo.
-
-set "FILE=%~1"
-
-for /f "tokens=2" %%P in ('findstr /R /C:"^package " "%FILE%"') do set "PACKAGE=%%P"
-
-set "PACKAGE=!PACKAGE:;=!"
-
-for %%F in ("%FILE%") do set "CLASS=%%~nF"
-
-if defined PACKAGE (
-    set "MAIN=!PACKAGE!.!CLASS!"
-) else (
-    set "MAIN=!CLASS!"
-)
-
-echo Executando: !MAIN!
-echo.
-
-java -cp bin "!MAIN!"
-
-echo.
-pause

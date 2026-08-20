@@ -1,0 +1,727 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"js",
+				"js/"
+			],
+			[
+				"Fro",
+				"Front-end/"
+			],
+			[
+				"style",
+				"style.css"
+			],
+			[
+				"pag",
+				"pages/"
+			],
+			[
+				"Jhon",
+				"JhonataCarvalho23"
+			],
+			[
+				"sty",
+				"style.css"
+			],
+			[
+				"lin",
+				"linguagens"
+			],
+			[
+				"lis",
+				"linguagensDeProgramacao"
+			],
+			[
+				"nue",
+				"numeroMaximo"
+			],
+			[
+				"num",
+				"numeroEscolhido"
+			],
+			[
+				"nume",
+				"numeroEscolhido"
+			],
+			[
+				"numer",
+				"numeroEscolhido"
+			],
+			[
+				"nuem",
+				"numeroMaxiomo"
+			],
+			[
+				"resultadoDa",
+				"resultadoDaTabuada"
+			],
+			[
+				"cal",
+				"calcularTabuada"
+			],
+			[
+				"ver",
+				"verPerimetroEArea"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"valo",
+				"valorEmReais"
+			],
+			[
+				"cone",
+				"converterParaDolar"
+			],
+			[
+				"resl",
+				"resultadoDaFatoracao"
+			],
+			[
+				"calc",
+				"calcularFatorial"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"ex",
+				"exibirMensagemInicial"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"te",
+				"tentativa"
+			],
+			[
+				"mult",
+				"multiplicacao"
+			],
+			[
+				"do",
+				"dobro"
+			],
+			[
+				"va",
+				"valor2"
+			],
+			[
+				"con",
+				"contagem"
+			],
+			[
+				"n",
+				"numero2"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"gray",
+				"dimgray"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"--c",
+				"--cor-de-fundo"
+			],
+			[
+				"--bot",
+				"--botao-azul-efeito"
+			],
+			[
+				"conat",
+				"container__botao"
+			],
+			[
+				"list",
+				"lista__link"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"COM",
+				"computador.png"
+			],
+			[
+				"sec",
+				"secundario"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"pla",
+				"Plataformas.png"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"cona",
+				"container"
+			],
+			[
+				"co",
+				"container__aviso"
+			],
+			[
+				"--",
+				"--fonte-principal"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"backgorun",
+				"background-repeat"
+			],
+			[
+				"ba",
+				"Background.png"
+			],
+			[
+				"Com",
+				"Combo.png"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"t",
+				"translateY"
+			],
+			[
+				"pef",
+				"perfil"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"w",
+				"row"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"whi",
+				"whitesmoke"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"sc",
+				"script.js"
+			],
+			[
+				"me",
+				"elementById"
+			],
+			[
+				"a",
+				"a"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Positivo/AppData/Roaming/Sublime Text/Packages/User/Teste Java.sublime-build",
+			"settings":
+			{
+				"buffer_size": 37,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "untitled.sublime-build"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{\n\t\"shell_cmd\": \"${0:make}\"\n}\n"
+					},
+					"AQAAAAAAAAAAAAAAGQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					5,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAJQAAAAAAAAAZAAAAewoJInNoZWxsX2NtZCI6ICJtYWtlIgp9Cg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAABkAAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "src/br/com/alura/screenmatch/principal/Principal.java",
+			"settings":
+			{
+				"buffer_size": 2507,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/JavaRun.sublime-build",
+					""
+				],
+				[
+					"Packages/User/untitled.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Packe",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 230.0,
+		"history":
+		[
+			"clea",
+			"clear",
+			"git add ."
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Positivo/Desktop/Consumindo-API-gravandoArquivos-e-lidandoComErros",
+		"/C/Users/Positivo/Desktop/Consumindo-API-gravandoArquivos-e-lidandoComErros/src",
+		"/C/Users/Positivo/Desktop/Consumindo-API-gravandoArquivos-e-lidandoComErros/src/br",
+		"/C/Users/Positivo/Desktop/Consumindo-API-gravandoArquivos-e-lidandoComErros/src/br/com",
+		"/C/Users/Positivo/Desktop/Consumindo-API-gravandoArquivos-e-lidandoComErros/src/br/com/alura",
+		"/C/Users/Positivo/Desktop/Consumindo-API-gravandoArquivos-e-lidandoComErros/src/br/com/alura/screenmatch",
+		"/C/Users/Positivo/Desktop/Consumindo-API-gravandoArquivos-e-lidandoComErros/src/br/com/alura/screenmatch/principal"
+	],
+	"file_history":
+	[
+		"/C/Users/Positivo/AppData/Roaming/Sublime Text/Packages/User/Java Curso.sublime-build",
+		"/C/Users/Positivo/Desktop/Consumindo-API-gravandoArquivos-e-lidandoComErros/build.bat",
+		"/C/Users/Positivo/AppData/Roaming/Sublime Text/Packages/User/Java Project.sublime-build",
+		"/C/Users/Positivo/Desktop/sistemaDeLoginEmJava/index.html",
+		"/C/Users/Positivo/Desktop/sistemaDeLoginEmJava/frontEnd/css/style.css",
+		"/C/Users/Positivo/Desktop/sistemaDeLoginEmJava/frontEnd/js/script.js",
+		"/C/Users/Positivo/Desktop/meuPortifolio/index.html",
+		"/C/Users/Positivo/Desktop/meuPortifolio/Front-end/index.html",
+		"/C/Users/Positivo/Desktop/meuPortifolio/Front-end/css/versionamento.css",
+		"/C/Users/Positivo/Desktop/meuPortifolio/Front-end/pages/versionamento.html",
+		"/C/Users/Positivo/Desktop/meuPortifolio/Front-end/css/backend.css",
+		"/C/Users/Positivo/Desktop/meuPortifolio/Front-end/pages/BackEnd.html",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/Front-End/index.html",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/Front-End/js/auth.js",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/package-lock.json",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/package.json",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/Back-End/server.js",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/README.md",
+		"/C/Users/Positivo/Desktop/AFarsaDoMundo/Front-end/css/style.css",
+		"/C/Users/Positivo/Desktop/AFarsaDoMundo/Front-end/js/script.js",
+		"/C/Users/Positivo/Desktop/AFarsaDoMundo/Front-end/index.html",
+		"/C/Users/Positivo/Desktop/AFarsaDoMundo/script.js",
+		"/C/Users/Positivo/Desktop/AFarsaDoMundo/style.css",
+		"/C/Users/Positivo/Desktop/AFarsaDoMundo/index.html",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/backend/server.js",
+		"/C/Users/Positivo/Desktop/semana14-front/service-worker.js",
+		"/C/Users/Positivo/Desktop/semana14-front/app.js",
+		"/C/Users/Positivo/Desktop/semana14-front/manifest.json",
+		"/C/Users/Positivo/Desktop/semana14-front/index.html",
+		"/C/Users/Positivo/Desktop/techgear-redux/src/style.css",
+		"/C/Users/Positivo/Desktop/techgear-redux/src/App.jsx",
+		"/C/Users/Positivo/Desktop/techgear-redux/src/main.jsx",
+		"/C/Users/Positivo/Desktop/techgear-redux/src/store.js",
+		"/C/Users/Positivo/Desktop/techgear-redux/src/cartReducer.js",
+		"/C/Users/Positivo/Desktop/techgear-redux/package.json",
+		"/C/Users/Positivo/Desktop/microservicos-seguros/pedidos-service.js",
+		"/C/Users/Positivo/Desktop/microservicos-seguros/usuarios-service.js",
+		"/C/Users/Positivo/Desktop/microservicos-seguros/auth-service.js",
+		"/C/Users/Positivo/Desktop/microservicos-seguros/package.json",
+		"/C/Users/Positivo/Desktop/atividadesMajor/index2.html",
+		"/C/Users/Positivo/Desktop/atividadesMajor/index.html",
+		"/C/Users/Positivo/AppData/Roaming/Sublime Text/Packages/User/untitled.sublime-build",
+		"/C/Users/Positivo/Desktop/Git e GitHub compartilhando e colaborando em projetos/app.js",
+		"/C/Users/Positivo/Desktop/Explorando-funcoes-e-listas/app.js",
+		"/C/Users/Positivo/Desktop/Explorando-funcoes-e-listas/exercicios/exercicios.js",
+		"/C/Users/Positivo/Desktop/Explorando-funcoes-e-listas/exercicios/style.css",
+		"/C/Users/Positivo/Desktop/Explorando-funcoes-e-listas/exercicios/exercicios.html",
+		"/C/Users/Positivo/Desktop/Explorando-funcoes-e-listas/index.html",
+		"/C/Users/Positivo/Desktop/Explorando-funcoes-e-listas/style.css",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/frontend/pages/cadastro-page.html",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/frontend/pages/login-page.html",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/frontend/css/cadastro.css",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/frontend/css/login.css",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/frontend/css/style.css",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/frontend/index.html",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/frontend/pages/esqueci-senha-page.html",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/docs/arquitetura.md",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/docs/requisitos.md",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/docs/ideias.md",
+		"/C/Users/Positivo/Desktop/LogicaDeProgramacao-mergulheEmProgramacaoComJavaScript/Aula_1/Exercicios/index.html",
+		"/C/Users/Positivo/Desktop/LogicaDeProgramacao-mergulheEmProgramacaoComJavaScript/Aula_2/Exercicios/index.html",
+		"/C/Users/Positivo/Desktop/LogicaDeProgramacao-mergulheEmProgramacaoComJavaScript/Aula_3/Exercicios/index.html",
+		"/C/Users/Positivo/Desktop/LogicaDeProgramacao-mergulheEmProgramacaoComJavaScript/Aula_4/Exercicios/index.html",
+		"/C/Users/Positivo/Desktop/LogicaDeProgramacao-mergulheEmProgramacaoComJavaScript/Aula_5/index.html",
+		"/C/Users/Positivo/Desktop/LogicaDeProgramacao-mergulheEmProgramacaoComJavaScript/Aula_4/app.js",
+		"/C/Users/Positivo/Desktop/LogicaDeProgramacao-mergulheEmProgramacaoComJavaScript/Aula_5/Exercicios/aula5.js",
+		"/C/Users/Positivo/Desktop/LogicaDeProgramacao-mergulheEmProgramacaoComJavaScript/Aula_5/Exercicios/index.html",
+		"/C/Users/Positivo/Desktop/LogicaDeProgramacao-mergulheEmProgramacaoComJavaScript/Aula_5/app.js",
+		"/C/Users/Positivo/Desktop/LogicaDeProgramacao-mergulheEmProgramacaoComJavaScript/Aula_3/Exercicios/aula3.js",
+		"/C/Users/Positivo/Desktop/LogicaDeProgramacao-mergulheEmProgramacaoComJavaScript/Aula_4/Exercicios/aula4.js",
+		"/C/Users/Positivo/Desktop/LogicaDeProgramacao-mergulheEmProgramacaoComJavaScript/Aula_3/app.js",
+		"/C/Users/Positivo/Desktop/LogicaDeProgramacao-mergulheEmProgramacaoComJavaScript/Aula_1/style.css",
+		"/C/Users/Positivo/Desktop/LogicaDeProgramacao-mergulheEmProgramacaoComJavaScript/Aula_1/app.js",
+		"/C/Users/Positivo/Desktop/LogicaDeProgramacao-mergulheEmProgramacaoComJavaScript/Aula_2/app.js",
+		"/C/Users/Positivo/Desktop/LogicaDeProgramacao-mergulheEmProgramacaoComJavaScript/Aula_2/Exercicios/aula2.js",
+		"/C/Users/Positivo/Desktop/LogicaDeProgramacao-mergulheEmProgramacaoComJavaScript/Aula_1/index.html",
+		"/C/Users/Positivo/Desktop/LogicaDeProgramacao-mergulheEmProgramacaoComJavaScript/Aula_1/Exercicios/exercicios.js",
+		"/C/Users/Positivo/AppData/Roaming/Sublime Text/Packages/User/JavaScript.sublime-build",
+		"/C/Users/Positivo/Desktop/LogicaDeProgramacao-mergulheEmProgramacaoComJavaScript/Aula_1/Exercicios/Aula_1",
+		"/C/Users/Positivo/Desktop/JavaSublime/Teste.java",
+		"/C/Users/Positivo/Downloads/ShareX-20.1.0-portable-x64.zip",
+		"/C/Users/Positivo/Desktop/JavaSublime/JogoPedraPapelTesoura.java",
+		"/C/Users/Positivo/Desktop/JavaSublime/JogarPedraPapelTesoura.java",
+		"/C/Users/Positivo/AppData/Roaming/Sublime Text/Packages/User/JavaRun.sublime-build",
+		"/C/Users/Positivo/Desktop/Java/Projetos/Calculadora/src/Calcular.java",
+		"/C/Users/Positivo/Desktop/Java/Exercicios/src/ContagemRegressiva.java",
+		"/C/Users/Positivo/Desktop/React/meu-app-react/src/index.css",
+		"/C/Users/Positivo/Desktop/React/meu-app-react/src/pages/Home/style.css",
+		"/C/Users/Positivo/Desktop/React/meu-app-react/src/pages/Home/index.jsx",
+		"/C/Users/Positivo/Desktop/React/meu-app-react/src/main.jsx",
+		"/C/Users/Positivo/Desktop/React/meu-app-react/src/App.css",
+		"/C/Users/Positivo/Desktop/React/meu-app-react/src/App.jsx",
+		"/C/Users/Positivo/Desktop/alura-plus/style.css",
+		"/C/Users/Positivo/Desktop/alura-plus/index.html",
+		"/C/Users/Positivo/Desktop/Trabalho-1Bimestre/relatorio",
+		"/C/Users/Positivo/Desktop/Trabalho-1Bimestre/cadastro.css",
+		"/C/Users/Positivo/Desktop/Trabalho-1Bimestre/img/DiagramaDeTabelas.drawio.pdf",
+		"/C/Users/Positivo/Desktop/Trabalho-1Bimestre/api.js",
+		"/C/Users/Positivo/Desktop/Trabalho-1Bimestre/cadastro.html",
+		"/C/Users/Positivo/Desktop/Trabalho-1Bimestre/README.md",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/Documentação/documentacao.txt",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/Back-end/funcoes.py",
+		"/C/Users/Positivo/Desktop/Imersao_Alura/index.html",
+		"/C/Users/Positivo/Desktop/Imersao_Alura/catalogo/catalogo.html",
+		"/C/Users/Positivo/Desktop/Netflix/js/index.js",
+		"/C/Users/Positivo/Desktop/Netflix/catalogo/catalogo.html",
+		"/C/Users/Positivo/Desktop/Netflix/style.css",
+		"/C/Users/Positivo/Desktop/Netflix/index.html",
+		"/C/Users/Positivo/Desktop/Netflix/javaScript.js",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/Front-End/css/style.css",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/Trabalho_1B/login.html",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/Trabalho_1B/login.css",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/Front-End/css/cadastro.css",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/Front-End/html/cadastro.html",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/Front-End/html/login.html",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/Front-End/html/index.html",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/Front-End/style-cadastro.css",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/Front-End/style-login.css",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/Front-End/style.css",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/Front-End/script.js",
+		"/C/Users/Positivo/Desktop/Control_Finance.IA/Front-End/skyline.html",
+		"/C/Users/Positivo/Desktop/skyline/exemplo.html",
+		"/C/Users/Positivo/Desktop/skyline/conteudo/texto.txt",
+		"/C/Users/Positivo/Desktop/skyline/index.html",
+		"/C/Users/Positivo/Desktop/Pasta vazia/html5.txt",
+		"/C/Users/Positivo/Desktop/skyline/index2.html",
+		"/C/Users/Positivo/Desktop/skyline/index32.html.lnk",
+		"/C/Users/Positivo/Desktop/skyline/skyline"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Positivo/AppData/Roaming/Sublime Text/Packages/User/Teste Java.sublime-build",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								37
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/br/com/alura/screenmatch/principal/Principal.java",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2507,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2507,
+								2507
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1386.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 204.0,
+		"history":
+		[
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "Packages/User/Java Curso.sublime-build",
+	"project": "CursoJava.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 164.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
