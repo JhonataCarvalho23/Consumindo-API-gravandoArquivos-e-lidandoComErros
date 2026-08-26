@@ -6,6 +6,7 @@ import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 import java.net.http.HttpResponse.BodyHandlers;
+import com.google.gson.Gson;
 
 public class PrincipalComBusca{
 	public static void main(String[] args) throws Exception {
@@ -27,6 +28,7 @@ public class PrincipalComBusca{
     HttpResponse<String> response = client
     	.send(request, BodyHandlers.ofString());
 
-    System.out.println(response.body());
+	String json = response.body(); 
+    System.out.println(json);
 }
 }
