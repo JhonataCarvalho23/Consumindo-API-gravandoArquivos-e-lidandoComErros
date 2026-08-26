@@ -15,7 +15,7 @@ dir /s /b src\*.java > sources.txt
 
 echo.
 echo ===== COMPILANDO =====
-javac -encoding UTF-8 -d bin @sources.txt
+javac -encoding UTF-8 -cp "gson-2.14.0.jar" -d bin @sources.txt
 
 if errorlevel 1 (
     echo.

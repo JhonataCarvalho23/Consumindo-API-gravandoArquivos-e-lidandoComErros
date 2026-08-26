@@ -46,6 +46,6 @@ echo.
 echo Classe: !CLASSE_COMPLETA!
 echo.
 
-java -cp bin !CLASSE_COMPLETA!
+java -cp "bin;gson-2.14.0.jar" !CLASSE_COMPLETA!
 
 echo.
