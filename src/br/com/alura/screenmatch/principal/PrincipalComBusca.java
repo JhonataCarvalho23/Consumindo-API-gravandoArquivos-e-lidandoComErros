@@ -1,5 +1,6 @@
 package br.com.alura.screenmatch.principal;
 
+import br.com.alura.screenmatch.modelos.Titulo;
 import java.util.Scanner;
 import java.net.URI;
 import java.net.http.HttpClient;
@@ -29,6 +30,11 @@ public class PrincipalComBusca{
     	.send(request, BodyHandlers.ofString());
 
 	String json = response.body(); 
-    System.out.println(json);
+
+    Gson gson = new Gson();
+    Titulo meuTitulo = gson.fromJson(json, Titulo.class);
+    System.out.println(meuTitulo);
+
+    System.out.println("Compilou");
 }
 }
